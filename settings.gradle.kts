@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ArchitectureModularization"
-include ':app'
+include(":app")
